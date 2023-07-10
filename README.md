@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @stefania11
-- 👀 I’m interested in Computer-Supported Coding and the design of Creative AI tools 
-- 🌱 I’m currently learning how to build novel applications for Large Language Models 
-- 💞️ I’m looking to collaborate on Code Generation & Programming Synthesis tools
-- 📫 How to reach me st3f at uw dot edu 
+- 👋 Hi, I’m Stefania Druga, currently a Principal Researcher at the Center of Applied AI Research at the University of Chicago. 
+- 🌱 I’m currently building novel applications for Large Language Models 
+- 💞️ I’m looking to collaborate on AI for good and social impact projects 
+- 📫 How to reach me st3f at uchicago dot edu 
 
 <!---
 stefania11/stefania11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
